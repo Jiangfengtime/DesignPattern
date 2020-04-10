@@ -1,0 +1,50 @@
+@startuml
+
+abstract Interface1
+class A
+class B
+class C
+class D
+
+A <|-- Interface1
+B <|-- Interface1
+C <|-- Interface1
+D <|-- Interface1
+
+
+interface Interface1{
+    void operation1()
+    void operation2()
+    void operation3()
+    void operation4()
+    void operation5()
+}
+class A {
+    void operation1()
+    void operation2()
+    void operation3()
+}
+class B {
+    void operation1()
+    void operation2()
+    void operation3()
+    void operation4()
+    void operation5()
+}
+class C {
+    void operation1()
+    void operation4()
+    void operation5()
+}
+
+class D {
+    void operation1()
+    void operation2()
+    void operation3()
+    void operation4()
+    void operation5()
+}
+
+
+
+@enduml
