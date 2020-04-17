@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="116.0" y="0.0">com.hjf.uml.composition.Monitor</node>
+    <node x="45.583333333333314" y="95.0">com.hjf.uml.composition.Computer</node>
+    <node x="0.0" y="0.0">com.hjf.uml.composition.Mouse</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hjf.uml.composition.Computer" target="com.hjf.uml.composition.Mouse">
+      <point x="-51.66666666666667" y="-17.5" />
+      <point x="55.91666666666664" y="75.0" />
+      <point x="16.0" y="75.0" />
+      <point x="-32.0" y="17.5" />
+    </edge>
+    <edge source="com.hjf.uml.composition.Computer" target="com.hjf.uml.composition.Monitor">
+      <point x="31.0" y="-17.5" />
+      <point x="138.58333333333331" y="65.0" />
+      <point x="173.5" y="65.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="387.0" y="133.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="125.00000000000001" y="0.0">com.hjf.uml.aggregation_generalization.Head</node>
+    <node x="-16.0" y="-10.0">com.hjf.uml.aggregation_generalization.IDCard</node>
+    <node x="94.00000000000001" y="85.0">com.hjf.uml.aggregation_generalization.Person</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hjf.uml.aggregation_generalization.Person" target="com.hjf.uml.aggregation_generalization.Head">
+      <point x="0.0" y="-17.5" />
+      <point x="-21.5" y="17.5" />
+    </edge>
+    <edge source="com.hjf.uml.aggregation_generalization.Person" target="com.hjf.uml.aggregation_generalization.IDCard">
+      <point x="-35.0" y="-17.5" />
+      <point x="111.50000000000001" y="60.0" />
+      <point x="52.5" y="60.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="387.0" y="82.0" />
+  <SelectedNodes>
+    <node>com.hjf.uml.aggregation_generalization.IDCard</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

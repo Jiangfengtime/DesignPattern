@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="111.0">com.hjf.uml.implementation.PersonServiceBean</node>
+    <node x="35.5" y="-48.0">com.hjf.uml.implementation.PersonService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hjf.uml.implementation.PersonServiceBean" target="com.hjf.uml.implementation.PersonService">
+      <point x="0.0" y="-30.5" />
+      <point x="0.0" y="30.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="387.0" y="68.5" />
+  <SelectedNodes>
+    <node>com.hjf.uml.implementation.PersonService</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
